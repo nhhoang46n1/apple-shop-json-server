@@ -195,6 +195,7 @@
     "baseName": "iPhone 13",
     "id": "IPHONE13_MAIN",
     "img": "https://www.apple.com/v/iphone/home/bh/images/overview/compare/compare_iphone_13__fqzwhmfmroey_large.jpg",
+    "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-family-hero?wid=470&hei=556&fmt=png-alpha&.v=1645036276543",
     "desc": "As amazing as ever.",
     "price": {
       "value": 699,
@@ -217,6 +218,7 @@
         "id": "IPHONE13_MAIN",
         "name": "iPhone 13 mini",
         "screenSize": "5.4-inch display",
+        "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-family-select?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645036276899",
         "price": {
           "value": 699,
           "smart": "$699",
@@ -267,6 +269,7 @@
         "id": "IPHONE13_MAIN",
         "name": "iPhone 13",
         "screenSize": "6.1-inch display",
+        "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-family-select?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645036276869",
         "price": {
           "value": 799,
           "smart": "$799",
@@ -390,6 +393,7 @@
     "baseName": "iPhone 12",
     "id": "IPHONE12_MAIN",
     "img": "https://www.apple.com/v/iphone/home/bh/images/overview/compare/compare_iphone_12__dz3sv9lzdzu6_large.jpg",
+    "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1617135051000",
     "desc": "A total powerhouse.",
     "price": {
       "value": 599,
@@ -412,6 +416,7 @@
         "id": "IPHONE12_MAIN",
         "name": "iPhone 12 mini",
         "screenSize": "5.4-inch display",
+        "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000",
         "price": {
           "value": 599,
           "smart": "$599",
@@ -462,6 +467,7 @@
         "id": "IPHONE12_MAIN",
         "name": "iPhone 12",
         "screenSize": "6.1-inch display",
+        "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-select-2021?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617130318000",
         "price": {
           "value": 699,
           "smart": "$699",
@@ -580,6 +586,7 @@
     "baseName": "iPhone SE",
     "id": "IPHONESE3_MAIN",
     "img": "https://www.apple.com/v/iphone/home/bh/images/overview/compare/compare_iphone_se__d5blqx1pgymq_large.jpg",
+    "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-family-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494883",
     "desc": "Serious power. Serious value.",
     "price": {
       "value": 429,
@@ -602,6 +609,7 @@
         "id": "IPHONESE3_MAIN",
         "name": "iPhone SE",
         "screenSize": "4.7-inch display",
+        "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-family-select-202203?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1646070494883",
         "price": {
           "value": 429,
           "smart": "$429",
