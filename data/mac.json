@@ -1,0 +1,200 @@
+{
+    "mac": {
+        "notebook": [
+            {
+                "type": "new",
+                "name": "MacBook Air",
+                "baseName": "MacBook Air - Main (2022)",
+                "id": "MACBOOKAIR_M2",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_mbam2__bdesjk99hf4i_large.png",
+                "desc":"M2 chip",
+                "price": {
+                    "value": 1199,
+                    "display": {
+                        "smart": "$1199",
+                        "actual": "$1,199.00",
+                        "from": "From $1199",
+                        "monthlyFrom": "From $99.91/mo. for 12 mo. or $1199",
+                        "monthlyPrice": "From $99.91 for 12 mo.",
+                        "perMonth": "$99.91/mo.",
+                        "perMonthSmart": "$99.91",
+                        "perMonthActual": "$99.91",
+                        "perMonthValue": "99.91",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            },
+            {
+                "type": "",
+                "name": "MacBook Air",
+                "baseName": "MacBook Air - Main (2022)",
+                "id": "MACBOOKAIR_M1",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_mba__fchj615oz0yi_large.png",
+                "desc":"M1 chip",
+                "price": {
+                    "value": 999,
+                    "display": {
+                        "smart": "$999",
+                        "actual": "$999.00",
+                        "from": "From $999",
+                        "monthlyFrom": "From $83.25/mo. for 12 mo. or $999",
+                        "monthlyPrice": "From $83.25 for 12 mo.",
+                        "perMonth": "$83.25/mo.",
+                        "perMonthSmart": "$83.25",
+                        "perMonthActual": "$83.25",
+                        "perMonthValue": "83.25",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            },
+            {
+                "type": "new",
+                "name": "MacBook Pro 13''",
+                "baseName": "Macbook Pro Main",
+                "id": "MBP2022_13_M2",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_mbp13__euj5z15300om_large.png",
+                "desc":"",
+                "price": {
+                    "value": 1299,
+                    "display": {
+                        "smart": "$1299",
+                        "actual": "$1,299.00",
+                        "from": "From $1299",
+                        "monthlyFrom": "From $108.25/mo. for 12 mo. or $1299",
+                        "monthlyPrice": "From $108.25 for 12 mo.",
+                        "perMonth": "$108.25/mo.",
+                        "perMonthSmart": "$108.25",
+                        "perMonthActual": "$108.25",
+                        "perMonthValue": "108.25",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            },
+            {
+                "type": "",
+                "name": "MacBook Pro 14'' and 16''",
+                "baseName": "Macbook Pro Main",
+                "id": "MBP2021_14",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_mbp14_and_16__f2dhysusb5im_large.png",
+                "desc":"",
+                "price": {
+                    "value": 1999,
+                    "display": {
+                        "smart": "$1999",
+                        "actual": "$1,999.00",
+                        "from": "From $1999",
+                        "monthlyFrom": "From $166.58/mo. for 12 mo. or $1999",
+                        "monthlyPrice": "From $166.58 for 12 mo.",
+                        "perMonth": "$166.58/mo.",
+                        "perMonthSmart": "$166.58",
+                        "perMonthActual": "$166.58",
+                        "perMonthValue": "166.58",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            }
+        ],
+        "desktop": [
+            {
+                "type": "",
+                "name": "Mac Pro",
+                "baseName": "Mac Pro",
+                "id": "MACPRO2019_MAIN",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_macpro__cj3i514iwpua_large.png",
+                "desc":"",
+                "price": {
+                    "value": 5999,
+                    "display": {
+                        "smart": "$5999",
+                        "actual": "$5,999.00",
+                        "from": "From $5999",
+                        "monthlyFrom": "From $499.91/mo. for 12 mo. or $5999",
+                        "monthlyPrice": "From $499.91 for 12 mo.",
+                        "perMonth": "$499.91/mo.",
+                        "perMonthSmart": "$499.91",
+                        "perMonthActual": "$499.91",
+                        "perMonthValue": "499.91",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            },
+            {
+                "type": "",
+                "name": "Mac mini",
+                "baseName": "Mac mini",
+                "id": "MACMINI_M1",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_macmini__b77zzeep1s6a_large.png",
+                "desc":"",
+                "price": {
+                    "value": 699,
+                    "display": {
+                        "smart": "$699",
+                        "actual": "$699.00",
+                        "from": "From $699",
+                        "monthlyFrom": "From $58.25/mo. for 12 mo. or $699",
+                        "monthlyPrice": "From $58.25 for 12 mo.",
+                        "perMonth": "$58.25/mo.",
+                        "perMonthSmart": "$58.25",
+                        "perMonthActual": "$58.25",
+                        "perMonthValue": "58.25",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            },
+            {
+                "type": "",
+                "name": "Mac Studio",
+                "baseName": "Mac Studio",
+                "id": "MACSTUDIO2022_MAIN",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_macstudio__dg371ccau70i_large.png",
+                "desc":"",
+                "price": {
+                    "value": 1999,
+                    "display": {
+                        "smart": "$1999",
+                        "actual": "$1,999.00",
+                        "from": "From $1999",
+                        "monthlyFrom": "From $166.58/mo. for 12 mo. or $1999",
+                        "monthlyPrice": "From $166.58 for 12 mo.",
+                        "perMonth": "$166.58/mo.",
+                        "perMonthSmart": "$166.58",
+                        "perMonthActual": "$166.58",
+                        "perMonthValue": "166.58",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            },
+            {
+                "type": "",
+                "name": "iMac 24''",
+                "baseName": "24-inch iMac",
+                "id": "IMAC_24_MAIN",
+                "img": "https://www.apple.com/v/mac/home/bp/images/overview/compare/compare_imac24__bdgus6d1xqb6_large.png",
+                "desc":"",
+                "price": {
+                    "value": 1299,
+                    "display": {
+                        "smart": "$1299",
+                        "actual": "$1,299.00",
+                        "from": "From $1299",
+                        "monthlyFrom": "From $108.25/mo. for 12 mo. or $1299",
+                        "monthlyPrice": "From $108.25 for 12 mo.",
+                        "perMonth": "$108.25/mo.",
+                        "perMonthSmart": "$108.25",
+                        "perMonthActual": "$108.25",
+                        "perMonthValue": "108.25",
+                        "months": "12",
+                        "apr": "0 %"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,689 @@
+[
+  {
+    "type": "",
+    "name": "iPhone 13 Pro",
+    "baseName": "iPhone 13 Pro",
+    "id": "IPHONE13PRO_MAIN",
+    "img": "https://www.apple.com/v/iphone/home/bh/images/overview/compare/compare_iphone_13_pro__bpn3x8hs692a_large.jpg",
+    "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-family-hero?wid=470&hei=556&fmt=png-alpha&.v=1644969385433",
+    "desc": "The ultimate iPhone.",
+    "price": {
+      "value": 999,
+      "display": {
+        "smart": "$999",
+        "actual": "$999.00",
+        "from": "From $999",
+        "monthlyFrom": "From $41.62/mo. for 24 mo. or $999",
+        "monthlyPrice": "From $41.62 for 24 mo.",
+        "perMonth": "$41.62/mo.",
+        "perMonthSmart": "$41.62",
+        "perMonthActual": "$41.62",
+        "perMonthValue": "41.62",
+        "months": "24",
+        "apr": "0 %"
+      }
+    },
+    "relatedProduct": [
+      {
+        "id": "IPHONE13PRO_MAIN",
+        "name": "iPhone 13 Pro",
+        "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-family-select?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645811022162",
+        "screenSize": "6.1-inch display",
+        "price": {
+          "value": 999,
+          "smart": "$999",
+          "monthlyFrom": "From $41.62/mo. for 24 mo. or $999"
+        },
+        "colorProduct": [
+          {
+            "color": "Alpine Green",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-green-select?wid=470&hei=556&fmt=png-alpha&.v=1644969385505"
+          },
+          {
+            "color": "Silver",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-silver-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345849"
+          },
+          {
+            "color": "Gold",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-gold-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345862"
+          },
+          {
+            "color": "Graphite",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346276"
+          },
+          {
+            "color": "Sierra Blue",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-blue-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346275"
+          }
+        ],
+        "storagePrice": [
+          {
+            "capacity": "128GB",
+            "monthlyFrom": "From $41.62/mo. for 24 mo. or $999"
+          },
+          {
+            "capacity": "256GB",
+            "monthlyFrom": "From $45.79/mo. for 24 mo. or $1099"
+          },
+          {
+            "capacity": "512GB",
+            "monthlyFrom": "From $54.12/mo. for 24 mo. or $1299"
+          },
+          {
+            "capacity": "1TB",
+            "monthlyFrom": "From $62.45/mo. for 24 mo. or $1499"
+          }
+        ]
+      },
+      {
+        "id": "IPHONE13PRO_MAIN",
+        "name": "iPhone 13 Pro Max",
+        "imgMain": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-family-select?wid=470&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645811023243",
+        "screenSize": "6.7-inch display",
+        "price": {
+          "value": 1099,
+          "smart": "$1099",
+          "monthlyFrom": "From $45.79/mo. for 24 mo. or $1099"
+        },
+        "colorProduct": [
+          {
+            "color": "Alpine Green",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-green-select?wid=470&hei=556&fmt=png-alpha&.v=1644969385495"
+          },
+          {
+            "color": "Silver",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-silver-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346280"
+          },
+          {
+            "color": "Gold",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-gold-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346295"
+          },
+          {
+            "color": "Graphite",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346288"
+          },
+          {
+            "color": "Sierra Blue",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-blue-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346295"
+          }
+        ],
+        "storagePrice": [
+          {
+            "capacity": "128GB",
+            "monthlyFrom": "From $45.79/mo. for 24 mo. or $1099"
+          },
+          {
+            "capacity": "256GB",
+            "monthlyFrom": "From $49.95/mo. for 24 mo. or $1199"
+          },
+          { 
+            "capacity": "512GB",
+            "monthlyFrom": "From $58.29/mo. for 24 mo. or $1399"
+          },
+          {
+            "capacity": "1TB",
+            "monthlyFrom": "From $66.62/mo. for 24 mo. or $1599"
+          }
+        ]
+      }
+    ],
+    "color": [
+      {
+        "value": "Alpine Green",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-finish-green-202203?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645149891269"
+      },
+      {
+        "value": "Silver",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-finish-silver-2021?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1629940690000"
+      },
+      {
+        "value": "Gold",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-finish-gold-2021?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1629940690000"
+      },
+      {
+        "value": "Graphite",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-finish-graphite-2021?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1629940690000"
+      },
+      {
+        "value": "Sierra Blue",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-finish-blue-2021?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1629940690000"
+      }
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "tradeIn": {
+      "slug": "model_iphone_11_pro",
+      "productName": "iPhone 11 Pro",
+      "maxPriceProductName": "iPhone 11 Pro",
+      "credit": {
+        "value": 350,
+        "display": {
+          "smart": "$350",
+          "upto": "Up to $350",
+          "actual": "$350.00",
+          "range": "$350-$350",
+          "minValue": "$350",
+          "maxValue": "$350"
+        }
+      },
+      "priceWithCreditApplied": {
+        "value": 649,
+        "display": {
+          "smart": "$649",
+          "actual": "$649.00",
+          "from": "From $649 with trade-in",
+          "monthlyFrom": "From $27.04/mo. for 24 mo. or $649 with trade-in",
+          "monthlyPrice": "From $27.04/mo. for 24 months with trade-in",
+          "perMonth": "$27.04/mo.",
+          "perMonthSmart": "$27.04",
+          "perMonthActual": "$27.04",
+          "perMonthValue": "27.04",
+          "months": "24",
+          "apr": "0 %"
+        }
+      },
+      "legal": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply."
+    }
+  },
+  {
+    "type": "",
+    "name": "iPhone 13",
+    "baseName": "iPhone 13",
+    "id": "IPHONE13_MAIN",
+    "img": "https://www.apple.com/v/iphone/home/bh/images/overview/compare/compare_iphone_13__fqzwhmfmroey_large.jpg",
+    "desc": "As amazing as ever.",
+    "price": {
+      "value": 699,
+      "display": {
+        "smart": "$699",
+        "actual": "$699.00",
+        "from": "From $699",
+        "monthlyFrom": "From $29.12/mo. for 24 mo. or $699",
+        "monthlyPrice": "From $29.12 for 24 mo.",
+        "perMonth": "$29.12/mo.",
+        "perMonthSmart": "$29.12",
+        "perMonthActual": "$29.12",
+        "perMonthValue": "29.12",
+        "months": "24",
+        "apr": "0 %"
+      }
+    },
+    "relatedProduct": [
+      {
+        "id": "IPHONE13_MAIN",
+        "name": "iPhone 13 mini",
+        "screenSize": "5.4-inch display",
+        "price": {
+          "value": 699,
+          "smart": "$699",
+          "monthlyFrom": "From $29.12/mo. for 24 mo. or $699"
+        },
+        "colorProduct": [
+          {
+            "color": "Green",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-green-select?wid=470&hei=556&fmt=png-alpha&.v=1645036275894"
+          },
+          {
+            "color": "Pink",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-pink-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315655"
+          },
+          {
+            "color": "Blue",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-blue-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315986"
+          },
+          {
+            "color": "Midnight",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-midnight-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315770"
+          },
+          {
+            "color": "Starlight",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-starlight-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315872"
+          },
+          {
+            "color": "Red",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-product-red-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315893"
+          }
+        ],
+        "storagePrice": [
+          {
+            "capacity": "128GB",
+            "monthlyFrom": "From $29.12/mo. for 24 mo. or $699"
+          },
+          {
+            "capacity": "256GB",
+            "monthlyFrom": "From $33.29/mo. for 24 mo. or $799"
+          },
+          {
+            "capacity": "512GB",
+            "monthlyFrom": "From $41.62/mo. for 24 mo. or $999"
+          }
+        ]
+      },
+      {
+        "id": "IPHONE13_MAIN",
+        "name": "iPhone 13",
+        "screenSize": "6.1-inch display",
+        "price": {
+          "value": 799,
+          "smart": "$799",
+          "monthlyFrom": "From $33.29/mo. for 24 mo. or $799"
+        },
+        "colorProduct": [
+          {
+            "color": "Green",
+            "colorItem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-green-select?wid=470&hei=556&fmt=png-alpha&.v=1645036275538"
+          },
+          {
+            "color": "Pink",
+            "colorItem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315935"
+          },
+          {
+            "color": "Blue",
+            "colorItem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-blue-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572386470"
+          },
+          {
+            "color": "Midnight",
+            "colorItem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315913"
+          },
+          {
+            "color": "Starlight",
+            "colorItem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-starlight-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315205"
+          },
+          {
+            "color": "Red",
+            "colorItem": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1645572315758"
+          }
+        ],
+        "storagePrice": [
+          {
+            "capacity": "128GB",
+            "monthlyFrom": "From $45.79/mo. for 24 mo. or $1099"
+          },
+          {
+            "capacity": "256GB",
+            "monthlyFrom": "From $49.95/mo. for 24 mo. or $1199"
+          },
+          {
+            "capacity": "512GB",
+            "monthlyFrom": "From $58.29/mo. for 24 mo. or $1399"
+          },
+          {
+            "capacity": "1TB",
+            "monthlyFrom": "From $66.62/mo. for 24 mo. or $1599"
+          }
+        ]
+      }
+    ],
+    "color": [
+      {
+        "value": "Green",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-green-202203?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645218698057"
+      },
+      {
+        "value": "Pink",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-pink-202108?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1630016970000"
+      },
+      {
+        "value": "Blue",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-blue-202108?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1630016970000"
+      },
+      {
+        "value": "Midnight",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-midnight-202108?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1630016969000"
+      },
+      {
+        "value": "Starlight",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-starlight-202108?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1630016970000"
+      },
+      {
+        "value": "Red",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-product-red-202108?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1630016971000"
+      }
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "tradeIn": {
+      "slug": "model_iphone_11",
+      "productName": "iPhone 11",
+      "maxPriceProductName": "iPhone 11",
+      "credit": {
+        "value": 300,
+        "display": {
+          "smart": "$300",
+          "upto": "Up to $300",
+          "actual": "$300.00",
+          "range": "$300-$300",
+          "minValue": "$300",
+          "maxValue": "$300"
+        }
+      },
+      "priceWithCreditApplied": {
+        "value": 399,
+        "display": {
+          "smart": "$399",
+          "actual": "$399.00",
+          "from": "From $399 with trade-in",
+          "monthlyFrom": "From $16.62/mo. for 24 mo. or $399 with trade-in",
+          "monthlyPrice": "From $16.62/mo. for 24 months with trade-in",
+          "perMonth": "$16.62/mo.",
+          "perMonthSmart": "$16.62",
+          "perMonthActual": "$16.62",
+          "perMonthValue": "16.62",
+          "months": "24",
+          "apr": "0 %"
+        }
+      },
+      "legal": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply."
+    }
+  },
+  {
+    "type": "",
+    "name": "iPhone 12",
+    "baseName": "iPhone 12",
+    "id": "IPHONE12_MAIN",
+    "img": "https://www.apple.com/v/iphone/home/bh/images/overview/compare/compare_iphone_12__dz3sv9lzdzu6_large.jpg",
+    "desc": "A total powerhouse.",
+    "price": {
+      "value": 599,
+      "display": {
+        "smart": "$599",
+        "actual": "$599.00",
+        "from": "From $599",
+        "monthlyFrom": "From $24.95/mo. for 24 mo. or $599",
+        "monthlyPrice": "From $24.95 for 24 mo.",
+        "perMonth": "$24.95/mo.",
+        "perMonthSmart": "$24.95",
+        "perMonthActual": "$24.95",
+        "perMonthValue": "24.95",
+        "months": "24",
+        "apr": "0 %"
+      }
+    },
+    "relatedProduct": [
+      {
+        "id": "IPHONE12_MAIN",
+        "name": "iPhone 12 mini",
+        "screenSize": "5.4-inch display",
+        "price": {
+          "value": 599,
+          "smart": "$599",
+          "monthlyFrom": "From $24.95/mo. for 24 mo. or $599"
+        },
+        "colorProduct": [
+          {
+            "color": "Green",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-green-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343706000"
+          },
+          {
+            "color": "Purple",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000"
+          },
+          {
+            "color": "Blue",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-blue-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343706000"
+          },
+          {
+            "color": "White",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-white-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343707000"
+          },
+          {
+            "color": "Black",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-black-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343705000"
+          },
+          {
+            "color": "Red",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343707000"
+          }
+        ],
+        "storagePrice": [
+          {
+            "capacity": "64GB",
+            "monthlyFrom": "From $24.95/mo. for 24 mo. or $599"
+          },
+          {
+            "capacity": "128GB",
+            "monthlyFrom": "From $27.04/mo. for 24 mo. or $649"
+          },
+          {
+            "capacity": "256GB",
+            "monthlyFrom": "From $31.20/mo. for 24 mo. or $749"
+          }
+        ]
+      },
+      {
+        "id": "IPHONE12_MAIN",
+        "name": "iPhone 12",
+        "screenSize": "6.1-inch display",
+        "price": {
+          "value": 699,
+          "smart": "$699",
+          "monthlyFrom": "From $29.12/mo. for 24 mo. or $699"
+        },
+        "colorProduct": [
+          {
+            "color": "Green",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-green-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343704000"
+          },
+          {
+            "color": "Purple",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000"
+          },
+          {
+            "color": "Blue",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343704000"
+          },
+          {
+            "color": "White",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343705000"
+          },
+          {
+            "color": "Black",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343702000"
+          },
+          {
+            "color": "Red",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343703000"
+          }
+        ],
+        "storagePrice": [
+          {
+            "capacity": "64GB",
+            "monthlyFrom": "From $29.12/mo. for 24 mo. or $699"
+          },
+          {
+            "capacity": "128GB",
+            "monthlyFrom": "From $31.20/mo. for 24 mo. or $749"
+          },
+          {
+            "capacity": "256GB",
+            "monthlyFrom": "From $35.37/mo. for 24 mo. or $849"
+          }
+        ]
+      }
+    ],
+    "color": [
+      {
+        "value": "Green",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-green-202010?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601072990000"
+      },
+      {
+        "value": "Purple",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-purple-202104?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1617243599000"
+      },
+      {
+        "value": "Blue",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-blue-202010?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601072988000"
+      },
+      {
+        "value": "White",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-white-202010?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601072989000"
+      },
+      {
+        "value": "Black",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-black-202010?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601072988000"
+      },
+      {
+        "value": "Red",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-red-202010?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1601072989000"
+      }
+    ],
+    "storage": [
+      "64GB",
+      "128GB",
+      "256GB"
+    ],
+    "tradeIn": {
+      "slug": "model_iphone_xr",
+      "productName": "iPhone XR",
+      "maxPriceProductName": "iPhone XR",
+      "credit": {
+        "value": 200,
+        "display": {
+          "smart": "$200",
+          "upto": "Up to $200",
+          "actual": "$200.00",
+          "range": "$200-$200",
+          "minValue": "$200",
+          "maxValue": "$200"
+        }
+      },
+      "priceWithCreditApplied": {
+        "value": 399,
+        "display": {
+          "smart": "$399",
+          "actual": "$399.00",
+          "from": "From $399 with trade-in",
+          "monthlyFrom": "From $16.62/mo. for 24 mo. or $399 with trade-in",
+          "monthlyPrice": "From $16.62/mo. for 24 months with trade-in",
+          "perMonth": "$16.62/mo.",
+          "perMonthSmart": "$16.62",
+          "perMonthActual": "$16.62",
+          "perMonthValue": "16.62",
+          "months": "24",
+          "apr": "0 %"
+        }
+      },
+      "legal": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply."
+    }
+  },
+  {
+    "type": "new",
+    "name": "iPhone SE",
+    "baseName": "iPhone SE",
+    "id": "IPHONESE3_MAIN",
+    "img": "https://www.apple.com/v/iphone/home/bh/images/overview/compare/compare_iphone_se__d5blqx1pgymq_large.jpg",
+    "desc": "Serious power. Serious value.",
+    "price": {
+      "value": 429,
+      "display": {
+        "smart": "$429",
+        "actual": "$429.00",
+        "from": "From $429",
+        "monthlyFrom": "From $17.87/mo. for 24 mo. or $429",
+        "monthlyPrice": "From $17.87 for 24 mo.",
+        "perMonth": "$17.87/mo.",
+        "perMonthSmart": "$17.87",
+        "perMonthActual": "$17.87",
+        "perMonthValue": "17.87",
+        "months": "24",
+        "apr": "0 %"
+      }
+    },
+    "relatedProduct": [
+      {
+        "id": "IPHONESE3_MAIN",
+        "name": "iPhone SE",
+        "screenSize": "4.7-inch display",
+        "price": {
+          "value": 429,
+          "smart": "$429",
+          "monthlyFrom": "From $17.87/mo. for 24 mo. or $429"
+        },
+        "colorProduct": [
+          {
+            "color": "Midnight",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-select-202203?wid=470&hei=556&fmt=png-alpha&.v=1646070494831"
+          },
+          {
+            "color": "Starlight",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-starlight-select-202203?wid=470&hei=556&fmt=png-alpha&.v=1646070494844"
+          },
+          {
+            "color": "Red",
+            "itemColor": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-red-select-202203?wid=470&hei=556&fmt=png-alpha&.v=1646070494834"
+          }
+        ],
+        "storagePrice": [
+          {
+            "capacity": "64GB",
+            "monthlyFrom": "From $17.87/mo. for 24 mo. or $429"
+          },
+          {
+            "capacity": "128GB",
+            "monthlyFrom": "From $19.95/mo. for 24 mo. or $479"
+          },
+          {
+            "capacity": "256GB",
+            "monthlyFrom": "From $24.12/mo. for 24 mo. or $579"
+          }
+        ]
+      }
+    ],
+    "color": [
+      {
+        "value": "Midnight",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-midnight-202203?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645049661381"
+      },
+      {
+        "value": "Starlight",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-starlight-202203?wid=102&amp;hei=102&amp;fmt=jpeg&amp;qlt=95&amp;.v=1645049661304"
+      },
+      {
+        "value": "Red",
+        "label": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/finish-red-201902?wid=48&amp;hei=48&amp;fmt=jpeg&amp;qlt=95&amp;.v=1550604659296"
+      }
+    ],
+    "storage": ["64GB","128GB","256GB"],
+    "tradeIn": {
+      "slug": "model_iphone_8",
+      "productName": "iPhone 8",
+      "maxPriceProductName": "iPhone 8",
+      "credit": {
+        "value": 100,
+        "display": {
+          "smart": "$100",
+          "upto": "Up to $100",
+          "actual": "$100.00",
+          "range": "$100-$100",
+          "minValue": "$100",
+          "maxValue": "$100"
+        }
+      },
+      "priceWithCreditApplied": {
+        "value": 329,
+        "display": {
+          "smart": "$329",
+          "actual": "$329.00",
+          "from": "From $329 with trade-in",
+          "monthlyFrom": "From $13.70/mo. for 24 mo. or $329 with trade-in",
+          "monthlyPrice": "From $13.70/mo. for 24 months with trade-in",
+          "perMonth": "$13.70/mo.",
+          "perMonthSmart": "$13.70",
+          "perMonthActual": "$13.70",
+          "perMonthValue": "13.70",
+          "months": "24",
+          "apr": "0 %"
+        }
+      },
+      "legal": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply."
+    }
+  }
+]

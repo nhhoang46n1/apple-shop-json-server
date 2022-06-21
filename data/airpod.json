@@ -1,0 +1,100 @@
+{
+    "airpod": [
+        {
+            "type": "WUIP",
+            "name": "Apple AirPods",
+            "baseName": "Apple AirPods (3rd Generation) with MagSafe (Main)",
+            "id": "APPLE_AIRPODS_3GEN_WITH_MAGSAFE_MAIN-1000147220",
+            "img": "https://www.apple.com/v/airpods/shared/compare/a/images/compare/compare_airpods_3rd_gen__dyuzfy04ht0m_large.png",
+            "desc":"3rd generation",
+            "price": {
+                "value": 179,
+                "display": {
+                    "smart": "$179",
+                    "actual": "$179.00",
+                    "from": "From $179",
+                    "monthlyFrom": "From $29.83/mo. for 6 mo. or $179",
+                    "monthlyPrice": "From $29.83 for 6 mo.",
+                    "perMonth": "$29.83/mo.",
+                    "perMonthSmart": "$29.83",
+                    "perMonthActual": "$29.83",
+                    "perMonthValue": "29.83",
+                    "months": "6",
+                    "apr": "0 %"
+                }
+            }
+        },
+        {
+            "type": "WUIP",
+            "name": "Apple AirPods",
+            "baseName": "Apple AirPods",
+            "id": "APPLE_AIRPODS_MAIN-142740",
+            "img": "https://www.apple.com/v/airpods/shared/compare/a/images/compare/compare_airpods_2nd_gen__fw52r8rxrpyu_large.png",
+            "desc":"2rd generation",
+            "price": {
+                "value": 129,
+                "display": {
+                    "smart": "$129",
+                    "actual": "$129.00",
+                    "from": "From $129",
+                    "monthlyFrom": "From $21.50/mo. for 6 mo. or $129",
+                    "monthlyPrice": "From $21.50 for 6 mo.",
+                    "perMonth": "$21.50/mo.",
+                    "perMonthSmart": "$21.50",
+                    "perMonthActual": "$21.50",
+                    "perMonthValue": "21.50",
+                    "months": "6",
+                    "apr": "0 %"
+                }
+            }
+        },
+        {
+            "type": "WUIP",
+            "name": "AirPods Pro",
+            "baseName": "AirPods Pro",
+            "id": "AIRPODSPRO_MAIN",
+            "img": "https://www.apple.com/v/airpods/shared/compare/a/images/compare/compare_airpods_pro__e9uzt0mzviem_large.png",
+            "desc":"",
+            "price": {
+                "value": 249,
+                "display": {
+                    "smart": "$249",
+                    "actual": "$249.00",
+                    "from": "From $249",
+                    "monthlyFrom": "From $41.50/mo. for 6 mo. or $249",
+                    "monthlyPrice": "From $41.50 for 6 mo.",
+                    "perMonth": "$41.50/mo.",
+                    "perMonthSmart": "$41.50",
+                    "perMonthActual": "$41.50",
+                    "perMonthValue": "41.50",
+                    "months": "6",
+                    "apr": "0 %"
+                }
+            }
+        },
+        {
+            "type": "WUIP",
+            "name": "AirPods Max",
+            "baseName": "AirPods Max",
+            "id": "AIRPODSMAX_MAIN",
+            "img": "https://www.apple.com/v/airpods/shared/compare/a/images/compare/compare_airpods_max__b14s2x6q07rm_large.png",
+            "desc":"",
+            "price": {
+                "value": 549,
+                "display": {
+                    "smart": "$549",
+                    "actual": "$549.00",
+                    "from": "From $549",
+                    "monthlyFrom": "From $91.50/mo. for 6 mo. or $549",
+                    "monthlyPrice": "From $91.50 for 6 mo.",
+                    "perMonth": "$91.50/mo.",
+                    "perMonthSmart": "$91.50",
+                    "perMonthActual": "$91.50",
+                    "perMonthValue": "91.50",
+                    "months": "6",
+                    "apr": "0 %"
+                }
+            }
+        }
+    ]
+}

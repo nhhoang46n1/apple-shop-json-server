@@ -1,0 +1,119 @@
+{
+    "loop": [
+        {
+            "type": "PART",
+            "name": "45mm Pride Edition Nike Sport Loop",
+            "baseName": "Watch Bands Main WUIP - Fall 2019 Onward",
+            "id": "MN6N3AM/A",
+            "img": "https://www.apple.com/v/watch/aw/images/overview/hero/pride_band_nike__cbx54pduap9e_large.jpg",
+            "price": {
+                "value": 49,
+                "display": {
+                    "smart": "$49",
+                    "actual": "$49.00",
+                    "monthlyFrom": "From $4.08/mo. for 12 mo. or $49",
+                    "monthlyPrice": "From $4.08 for 12 mo.",
+                    "perMonth": "$4.08/mo.",
+                    "perMonthSmart": "$4.08",
+                    "perMonthActual": "$4.08",
+                    "perMonthValue": "4.08",
+                    "months": "12",
+                    "apr": "0 %"
+                }
+            }
+        },
+        {
+            "type": "PART",
+            "name": "45mm Pride Edition Sport Loop",
+            "baseName": "Watch Bands Main WUIP - Fall 2019 Onward",
+            "id": "MN6L3AM/A",
+            "img": "https://www.apple.com/v/watch/aw/images/overview/hero/pride_band_sport_loop__gktby8cho2ai_large.jpg",
+            "price": {
+                "value": 49,
+                "display": {
+                    "smart": "$49",
+                    "actual": "$49.00",
+                    "monthlyFrom": "From $4.08/mo. for 12 mo. or $49",
+                    "monthlyPrice": "From $4.08 for 12 mo.",
+                    "perMonth": "$4.08/mo.",
+                    "perMonthSmart": "$4.08",
+                    "perMonthActual": "$4.08",
+                    "perMonthValue": "4.08",
+                    "months": "12",
+                    "apr": "0 %"
+                }
+            }
+        }
+    ],
+    "watch": [
+        {
+            "type": "WUIP",
+            "name": "Apple Watch Series 3",
+            "baseName": "Watch Series 6 2020",
+            "id": "W17_AL_SI_SP_WH_G",
+            "img": "https://www.apple.com/v/watch/aw/images/compare/compare_s3__f6gqpfe5rdea_large.jpg",
+            "price": {
+                "value": 199,
+                "display": {
+                    "smart": "$199",
+                    "actual": "$199.00",
+                    "from": "From $199",
+                    "monthlyFrom": "From $8.29/mo. for 24 mo. or $199",
+                    "monthlyPrice": "From $8.29 for 24 mo.",
+                    "perMonth": "$8.29/mo.",
+                    "perMonthSmart": "$8.29",
+                    "perMonthActual": "$8.29",
+                    "perMonthValue": "8.29",
+                    "months": "24",
+                    "apr": "0 %"
+                }
+            }
+        },
+        {
+            "type": "WUIP",
+            "name": "Apple Watch Series 7",
+            "baseName": "Watch Series 7 2021",
+            "id": "WS7_A_AL_SL_G",
+            "img": "https://www.apple.com/v/watch/aw/images/compare/compare_s7__dqi9jnwa4sq6_large.jpg",
+            "price": {
+                "value": 399,
+                "display": {
+                    "smart": "$399",
+                    "actual": "$399.00",
+                    "from": "From $399",
+                    "monthlyFrom": "From $16.62/mo. for 24 mo. or $399",
+                    "monthlyPrice": "From $16.62 for 24 mo.",
+                    "perMonth": "$16.62/mo.",
+                    "perMonthSmart": "$16.62",
+                    "perMonthActual": "$16.62",
+                    "perMonthValue": "16.62",
+                    "months": "24",
+                    "apr": "0 %"
+                }
+            }
+        },
+        {
+            "type": "WUIP",
+            "name": "Apple Watch Nike SE",
+            "baseName": "Apple Watch SE 2020",
+            "id": "WSE_N_AL_SI_G",
+            "img": "https://www.apple.com/v/watch/aw/images/compare/compare_se__fjdos6x4rmmy_large.jpg",
+            "price": {
+                "value": 279,
+                "display": {
+                    "smart": "$279",
+                    "actual": "$279.00",
+                    "from": "From $279",
+                    "monthlyFrom": "From $11.62/mo. for 24 mo. or $279",
+                    "monthlyPrice": "From $11.62 for 24 mo.",
+                    "perMonth": "$11.62/mo.",
+                    "perMonthSmart": "$11.62",
+                    "perMonthActual": "$11.62",
+                    "perMonthValue": "11.62",
+                    "months": "24",
+                    "apr": "0 %"
+                }
+            }
+        }
+    ]
+}

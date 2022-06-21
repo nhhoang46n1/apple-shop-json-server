@@ -1,0 +1,100 @@
+{
+  "ipad": [
+    {
+      "type": "new",
+      "name": "iPad Air",
+      "baseName": "iPad Air",
+      "id": "IPADAIR2022_WIFI",
+      "img": "https://www.apple.com/v/ipad/home/by/images/overview/compare_ipad_air__bxjv33pk6nte_large.png",
+      "desc": "Powerful. Colorful. Wonderful.",
+      "price": {
+        "value": 599,
+        "display": {
+          "smart": "$599",
+          "actual": "$599.00",
+          "from": "From $599",
+          "monthlyFrom": "From $49.91/mo. for 12 mo. or $599",
+          "monthlyPrice": "From $49.91 for 12 mo.",
+          "perMonth": "$49.91/mo.",
+          "perMonthSmart": "$49.91",
+          "perMonthActual": "$49.91",
+          "perMonthValue": "49.91",
+          "months": "12",
+          "apr": "0 %"
+        }
+      }
+    },
+    {
+      "type": "",
+      "name": "iPad Pro 11''",
+      "baseName": "iPad Pro",
+      "id": "IPADPRO11_WI_2021",
+      "img": "https://www.apple.com/v/ipad/home/by/images/overview/compare_ipad_pro__erf9x8mw04sy_large.png",
+      "desc": "The ultimate iPad experience.",
+      "price": {
+        "value": 799,
+        "display": {
+          "smart": "$799",
+          "actual": "$799.00",
+          "from": "From $799",
+          "monthlyFrom": "From $66.58/mo. for 12 mo. or $799",
+          "monthlyPrice": "From $66.58 for 12 mo.",
+          "perMonth": "$66.58/mo.",
+          "perMonthSmart": "$66.58",
+          "perMonthActual": "$66.58",
+          "perMonthValue": "66.58",
+          "months": "12",
+          "apr": "0 %"
+        }
+      }
+    },
+    {
+      "type": "",
+      "name": "iPad mini",
+      "baseName": "iPad mini",
+      "id": "IPADMINI2021_MAIN",
+      "img": "https://www.apple.com/v/ipad/home/by/images/overview/compare_ipad_mini__czcsk9ukpeie_large.png",
+      "desc": "Mega power. Mini sized.",
+      "price": {
+        "value": 499,
+        "display": {
+          "smart": "$499",
+          "actual": "$499.00",
+          "from": "From $499",
+          "monthlyFrom": "From $41.58/mo. for 12 mo. or $499",
+          "monthlyPrice": "From $41.58 for 12 mo.",
+          "perMonth": "$41.58/mo.",
+          "perMonthSmart": "$41.58",
+          "perMonthActual": "$41.58",
+          "perMonthValue": "41.58",
+          "months": "12",
+          "apr": "0 %"
+        }
+      }
+    },
+    {
+      "type": "",
+      "name": "iPad",
+      "baseName": "iPad",
+      "id": "IPAD2021_MAIN",
+      "img": "https://www.apple.com/v/ipad/home/by/images/overview/compare_ipad_10_2__fwgwy7jydtea_large.png",
+      "desc": "Delightfully capable. Surprisingly affordable.",
+      "price": {
+        "value": 329,
+        "display": {
+          "smart": "$329",
+          "actual": "$329.00",
+          "from": "From $329",
+          "monthlyFrom": "From $27.41/mo. for 12 mo. or $329",
+          "monthlyPrice": "From $27.41 for 12 mo.",
+          "perMonth": "$27.41/mo.",
+          "perMonthSmart": "$27.41",
+          "perMonthActual": "$27.41",
+          "perMonthValue": "27.41",
+          "months": "12",
+          "apr": "0 %"
+        }
+      }
+    }
+  ]
+}
