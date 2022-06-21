@@ -2,7 +2,7 @@ const jsonServer = require("json-server");
 
 const data = require("./db.js");
 const server = jsonServer.create();
-const router = jsonServer.router("/api", data);
+const router = jsonServer.router(data);
 const middlewares = jsonServer.defaults();
 
 // Set default middlewares (logger, static, cors and no-cache)
